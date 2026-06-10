@@ -1,8 +1,11 @@
 IA'S: 
+
 DeepSeek, ClaudeCode e Codex
 
 PROMPT USADO:
+
 Contexto
+
 você é um desenvolvedor front-end iniciante em HTML, CSS e JavaScript puro. Sua tarefa é criar uma aplicação web simples para um trabalho acadêmico de progrmação
 
 Objetivo
@@ -104,9 +107,13 @@ Exemplos:
 "Liberar Pokémon" (remover)
 
 COMENTÁRIOS:
+
 ClaudeCode fez algo bem feio, mesmo pedindo para que deixasse menos simples e mais bem feito, ele não conseguiu, fora que os botões de excluir e editar não funcionavam.
+
 DeepSeek fez um site muito bom e funcional, porém o tema pokemon só ficava dentro de um console que ele criou, deixando o fundo fora de tema.
+
 Codex apesar de simples, fez um site funcional, bonito e certeiro, não enfrentei nenhum problema utilizando ele
 
 MOTIVO DE ESCOLHA:
+
 Escolhi o Codex porque, dos 3 ele foi o que melhor se encaixou no tema, seu site estava totalmente funcional e mesmo simples, seu site ficou bonito.
