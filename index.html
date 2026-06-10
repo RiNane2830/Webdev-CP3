@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Pokédex de Capturas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="page">
+        <section id="loginTela" class="login-box">
+            <div class="pokebola-icon" aria-hidden="true"></div>
+            <h1>Minha Pokédex de Capturas</h1>
+            <p class="subtitle">Acesse seu registro de jornada Pokémon</p>
+
+            <div id="loginErro" class="mensagem erro"></div>
+
+            <div class="campo">
+                <label for="usuario">Usuario</label>
+                <input type="text" id="usuario" placeholder="Digite seu usuario">
+            </div>
+
+            <div class="campo">
+                <label for="senha">Senha</label>
+                <input type="password" id="senha" placeholder="Digite sua senha">
+            </div>
+
+            <button id="entrarBtn" class="botao principal">Entrar na Jornada</button>
+        </section>
+
+        <section id="appTela" class="app-box escondido">
+            <header class="app-header">
+                <div>
+                    <h1>Minha Pokédex de Capturas</h1>
+                    <p>Comece com os iniciais de Kanto e registre suas capturas.</p>
+                </div>
+                <div class="badge">Kanto</div>
+            </header>
+
+            <div class="painel">
+                <div id="pokemonErro" class="mensagem erro"></div>
+                <div id="pokemonSucesso" class="mensagem sucesso"></div>
+
+                <div class="captura-form">
+                    <label for="nomePokemon">Nome do Pokémon</label>
+                    <div class="linha-form">
+                        <input type="text" id="nomePokemon" placeholder="Ex: Pikachu">
+                        <button id="capturarFimBtn" class="botao vermelho">Capturar Pokémon</button>
+                        <button id="capturarInicioBtn" class="botao preto">Adicionar ao Time Principal</button>
+                    </div>
+                </div>
+            </div>
+
+            <section class="lista-area">
+                <div class="lista-topo">
+                    <h2>Pokémon Registrados</h2>
+                    <span id="contadorPokemon">0 Pokémon</span>
+                </div>
+                <ul id="listaPokemon"></ul>
+            </section>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
