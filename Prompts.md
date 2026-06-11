@@ -108,11 +108,11 @@ Exemplos:
 
 COMENTÁRIOS:
 
-ClaudeCode fez algo bem feio, mesmo pedindo para que deixasse menos simples e mais bem feito, ele não conseguiu, fora que os botões de excluir e editar não funcionavam.
+ClaudeCode de começo fez algo bem feio e seus botões de editar e "liberar" o pokemon não estavam funcionando, depois de pedir para que ele fizesse uns ajustes, o site saiu mais bonito e funcional, só o design ficou nada temático.
 
 DeepSeek fez um site muito bom e funcional, porém o tema pokemon só ficava dentro de um console que ele criou, deixando o fundo fora de tema.
 
-Codex apesar de simples, fez um site funcional, bonito e certeiro, não enfrentei nenhum problema utilizando ele
+Codex apesar de simples, fez um site funcional, bonito e certeiro, não enfrentei nenhum problema utilizando ele.
 
 MOTIVO DE ESCOLHA:
 
